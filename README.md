@@ -1,4 +1,4 @@
-# 소프트웨어 오류와 우리 사회의 안전 문제
+# 소프트웨어 시스템 오류와 우리 사회의 안전 문제
 
 * [현대차그룹 전기차, '충전장치' 먹통 논란…"리콜 불구 문제 지속"](https://www.newsis.com/view/NISX20240517_0002738026)
    - > 현대차그룹은 ICCU 결함은 하드웨어가 아니라 소프트웨어 문제라는 입장이다.
@@ -17,3 +17,8 @@
 * [“누리호 컴퓨터 간 통신 이상…소프트웨어 문제인 듯” (2023-05-24)](https://www.khan.co.kr/science/aerospace/article/202305241823001)
 
 * [무인주차장 오류 발생 대책 없어…운전자 피해 호소 (2022-10-20)](https://www.jjctv.co.kr/article/view/jjc202210200009)
+
+* [욕지도 모노레일 추락, 속도제어 시스템 오류 원인인 듯 (2011-11-29)](https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20211129.99099009026)
+
+* [일부 ESS 화재 폭발, 배터리관리시스템 오류 확인](https://www.e2news.com/news/articleView.html?idxno=201475)
+  
