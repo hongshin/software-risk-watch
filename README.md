@@ -7,6 +7,9 @@
 
 * [서울 버스정보시스템 오류, LGU+ 사물지능통신 자동 업뎃 중 발생 (2024-03-08)](https://www.donga.com/news/Economy/article/all/20240308/123874599/1)
 
+* [부산도시철도 잇단 사고…1대는 작년 들인 새 차량(종합)](https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20240213.22002003257)
+   - > 교통공사는 지난 2일 사고는 소프트웨어 문제라고 밝혔다. 전동차 신호프로그램의 오류가 발생하면서 운행에도 문제가 생겼다는 것이다. 
+
 * [정의선 “갈 길 멀다” 이유 있었다… 현대차 무상수리 절반이 SW 오류 (2024-01-19)
 ](https://biz.chosun.com/industry/car/2024/01/19/YHIPFW4L4NFDZLGSP2HGE57AVI/)
 
