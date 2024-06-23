@@ -32,3 +32,13 @@
 
 * [일부 ESS 화재 폭발, 배터리관리시스템 오류 확인](https://www.e2news.com/news/articleView.html?idxno=201475)
   
+
+
+
+### 시스템, 기계, 조작 오류 등 관련 사고 
+
+* [롯데웰푸드 자회사 공장서 손가락 절단 사고..."기계 오작동" 주장](https://www.ytn.co.kr/_ln/0103_202310180022197409)
+
+* [문경 공장 화재 원인 '온도제어기 고장'… 경종 강제 정지 사고 키워](https://news.lghellovision.net/news/articleView.html?idxno=459335)
+
+* [H엘리베이터서비스 직원, 수리 중 오작동으로 추락사…미심쩍은 사고 원인](http://www.wikileaks-kr.org/news/articleView.html?idxno=148543)
