@@ -54,6 +54,8 @@
 
 
 ### 시스템, 기계, 조작 오류 등 관련 사고와 이 
+* [부산소재 빙과류 제조 사업장서 또다시 산업용 로봇에 '끼임'사고 발생 (2024-07-31)](https://www.safety1st.news/news/articleView.html?idxno=5785)
+
 * [신한울1호기·월성 2호기 발전 재개…전력 수급 '숨통'](https://www.nocutnews.co.kr/news/6193862?utm_source=naver&utm_medium=article&utm_campaign=20240810111537)
 
 * [하남시 하수처리장, 배선 뒤엉킨 불량 제어장치 사용 '말썽'](https://daily.hankooki.com/news/articleView.html?idxno=1116170)
