@@ -1,5 +1,11 @@
 # 소프트웨어 시스템 오류와 우리 사회의 안전 문제
 
+* [주차 중 벤츠 전기차 화재… “배터리 관리 시스템 문제일수도” (2024-08-08)](https://biz.chosun.com/industry/car/2024/08/08/SGRFRFMOB5AOBF57YMEYPJKG6E/?utm_source=naver&utm_medium=original&utm_campaign=biz)
+    - > 일각에서는 배터리관리시스템(BMS) 오작동이나 손상에 의한 가능성도 제기된다.
+    - > BMS에 손상이 생기면 릴레이 차단이 불가능해지고 배터리 내부 온도를 측정할 수 없게 된다. 수백개의 배터리셀이 과충전, 과전압으로 이어질 가능성이 있는 것이다. 
+
+* [“이미 옷 보냈는데…” 패션 앱 에이블리 가격 시스템 오류에 셀러들 ‘불안’ (2024-08-04)](https://biz.chosun.com/distribution/channel/2024/08/04/2SBUZBFZ7REMBC6YWXVS6UDGBQ/?utm_source=naver&utm_medium=original&utm_campaign=biz)
+
 * [제네시스 "배터리 방전 가능성" 무상수리 (2024-07-24)](https://www.kmib.co.kr/article/view.asp?arcid=0020341858&code=61171811&cp=nv)
      - > 문제가 된 것은 CCU다. CCU는 외부와 통신을 주고받도록 하는 통신 제어장치다. 소프트웨어 로직 설정 오류로 배터리 방전 가능성이 생긴 게 문제가 됐다. 시동을 끄면 CCU도 같이 꺼져야 하는데 미슬립 상태가 유지되면서 배터리가 방전될 수 있어서 이 오류를 바로잡는 수리가 무상으로 진행되는 상황이다.
 
@@ -47,7 +53,12 @@
 
 
 
-### 시스템, 기계, 조작 오류 등 관련 사고 
+### 시스템, 기계, 조작 오류 등 관련 사고와 이 
+* [신한울1호기·월성 2호기 발전 재개…전력 수급 '숨통'](https://www.nocutnews.co.kr/news/6193862?utm_source=naver&utm_medium=article&utm_campaign=20240810111537)
+
+* [하남시 하수처리장, 배선 뒤엉킨 불량 제어장치 사용 '말썽'](https://daily.hankooki.com/news/articleView.html?idxno=1116170)
+
+* [경북 문경 육가공 공장 화재, 튀김기 온도 제어 고장...'화재 경보기'도 꺼놔 (2024-03-14)](https://news.sbs.co.kr/news/endPage.do?news_id=N1007571184&plink=ORI&cooper=NAVER)
 
 * [상가 옥상 주차장 승강기서 차량 추락…50대 운전자 사망 (2024-07-27)](https://www.newsis.com/view/NISX20240727_0002828123)
 
